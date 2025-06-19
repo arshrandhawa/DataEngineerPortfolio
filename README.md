@@ -29,15 +29,20 @@ Each project is structured within its own folder with clear documentation, makin
   </tr>
 </table>
 
-## 📌 Featured Project  
+## Project
 
-### 🎟️ **Ticketmasters Event Finder API (FastAPI)**  
+### 1. **Ticketmasters Event Finder API (FastAPI)**  
 - **Objective**: Fetches and displays event details from the Ticketmaster API using FastAPI.  
 - **Key Features**: Search events by city, retrieve event details, and display structured data with **pandas**.  
 - **Technologies Used**: FastAPI, Requests, Pandas, Python-dotenv, Uvicorn  
-- [View Repository](https://github.com/arshrandhawa/TicketmastersEventFinderAPI/tree/main)
+- [View Repository](https://github.com/arshrandhawa/TicketmastersEventFinderAPI/blob/main/README.md)
 
-Each project has its own folder with a dedicated **README** for setup and usage instructions.  
+### 2. **LinkedIn Auto Post**
+
+- **Objective**: Automatically schedules and posts content to LinkedIn via GitHub Workflows.
+- **Key Features**: Store, and post automated posts on LinkedIn to increase engagement.
+- **Technologies Used**: GitHub Actions, Github Secrets, LinkedIn API, FastAPI, Requests, Pandas, Python-dotenv  
+- [View Repository](https://github.com/arshrandhawa/linkedInAutoPost/blob/main/README.md)
 
 🚀 **Stay tuned for more projects!**  
 
