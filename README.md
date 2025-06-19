@@ -1,9 +1,3 @@
-# Data Engineer Portfolio - Arshdeep Randhawa  
-
-This portfolio contains various **Data Engineering projects**, ranging from API development to data analysis and automation. 
-
-Each project is structured within its own folder with clear documentation, making it easy to explore and understand.  
-
 <table align="center">
   <tr>
 	<td align="center">
@@ -22,12 +16,23 @@ Each project is structured within its own folder with clear documentation, makin
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/arshrandhawa/DataScientistPortfolio/blob/main/README.md">
+      <a href="https://github.com/arshrandhawa/DataEngineerPortfolio/blob/main/README.md">
+        <img src="https://img.shields.io/badge/-Data_Engineering-orange?style=for-the-badge&logo=docker&scale=4" alt="Data Engineering">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/arshrandhawa/DataSciencePortfolio/blob/main/README.md">
         <img src="https://img.shields.io/badge/-Data_Science-purple?style=for-the-badge&logo=scikit-learn&scale=4" alt="Data Science">
       </a>
     </td>
   </tr>
 </table>
+
+# Data Engineer Portfolio - Arshdeep Randhawa  
+
+This portfolio contains various **Data Engineering projects**, ranging from API development to data analysis and automation. 
+
+Each project is structured within its own folder with clear documentation, making it easy to explore and understand.  
 
 ## Project
 
